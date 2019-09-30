@@ -1,0 +1,5 @@
+The mobile application has 3 screens, one is for the main menu, one is for the map and one for listing exercises
+When you open it you'll see the button which is called "gyms near me" when you click it it leads you to google maps basically
+The thing is that I want it to show the exact location and it can't do it right now because it doesn't have the gps sensor
+If you make the sensor work with the map it will be greatAnd also about the unit test i have no idea how to do it so just please choose part of the code and test it
+And also please put comments everywhere because he wants them
